@@ -1,3 +1,5 @@
 #!/bin/bash
-shell, i/o Redirection
-what do commands head,tail,find,wc,sort,uniq,grep,tr do
+cd alx-system_engineering-devops
+mkdir 0x02-shell_redirections
+cd 0x02-shell_redirections
+echo 'Shell I/O redirections'
